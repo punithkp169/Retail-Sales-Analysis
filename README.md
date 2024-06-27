@@ -15,3 +15,18 @@
 - MS Excel
 - Power Query
 - DAX Function
+
+## Analysis
+KPI’s
+•	What are our total sales?
+•	How many units have we sold in total?
+•	What are our total transactions?
+•	How many products do we sell?
+
+VISUALIZATION
+•	What is the trend of sales over the months, and which month do we get the highest sales?
+•	Which day of the week do customers prefer to shop with us?
+•	Which age group do we have the highest number of customers as per the quantity of units they purchase, which product-category do they purchase the most?
+•	How does pricing affect purchasing behavior of customers?
+•	What are our top selling product category?
+
