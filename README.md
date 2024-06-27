@@ -20,8 +20,8 @@
 KPI’s
 - What are our total sales?
 - 	How many units have we sold in total?
-- 		What are our total transactions?
-- 		How many products do we sell?
+- 	what are our total transactions?
+- 	How many products do we sell?
 
 VISUALIZATION
 - What is the trend of sales over the months, and which month do we get the highest sales?
