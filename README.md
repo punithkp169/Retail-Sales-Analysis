@@ -9,3 +9,9 @@
 - Detected and handled outliers
 - Ensured consistency in calculations
 - Standardized categorical data
+
+##Tools USed
+- Power BI Desktop
+- MS Excel
+- Power Query
+- DAX Function
