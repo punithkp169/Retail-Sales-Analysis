@@ -30,3 +30,6 @@ VISUALIZATION
 - How does pricing affect purchasing behavior of customers?
 - What are our top selling product category?
 
+## Report
+
+
