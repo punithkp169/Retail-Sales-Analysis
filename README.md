@@ -10,7 +10,7 @@
 - Ensured consistency in calculations
 - Standardized categorical data
 
-##Tools USed
+## Tools Used
 - Power BI Desktop
 - MS Excel
 - Power Query
