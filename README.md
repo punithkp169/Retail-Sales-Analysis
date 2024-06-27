@@ -4,10 +4,10 @@
 
 ### Data Cleaning
 
-- Removed duplicate records
+- Remove duplicate records
 - Handled missing values
-- Converted data types
-- Detected and handled outliers
+- Converte data types
+- Detecte and handled outliers
 - Ensured consistency in calculations
 - Standardized categorical data
 
