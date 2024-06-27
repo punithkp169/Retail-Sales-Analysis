@@ -1,7 +1,8 @@
+
 # Retail-Sales-Analysis
    This project analyzes sales data from a retail store to provide insights into customer behavior, sales trends, and product performance. The analysis was conducted using Power BI, and the final report includes several key performance indicators (KPIs) and visualizations.
 
-## Data Cleaning
+### Data Cleaning
 
 - Removed duplicate records
 - Handled missing values
@@ -10,13 +11,13 @@
 - Ensured consistency in calculations
 - Standardized categorical data
 
-## Tools Used
+### Tools Used
 - Power BI Desktop
 - MS Excel
 - Power Query
 - DAX Function
 
-## Analysis
+### Analysis
 KPI’s
 - What are our total sales?
 - 	How many units have we sold in total?
@@ -30,4 +31,7 @@ VISUALIZATION
 - How does pricing affect purchasing behavior of customers?
 - What are our top selling product category?
 
+### Report
 
+[Retail Sales.pdf](https://github.com/user-attachments/files/16011570/Retail.Sales.pdf)
+[Retail Sales (3).pdf](https://github.com/user-attachments/files/16011573/Retail.Sales.3.pdf)
