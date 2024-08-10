@@ -31,7 +31,7 @@ VISUALIZATION
 - How does pricing affect purchasing behavior of customers?
 - What are our top selling product category?
 
-### Report
+### Dashboard
 
 - ![Page 1](https://github.com/punithkp169/Retail-Sales-Analysis/assets/173493345/6adfa086-9a2e-47ac-a351-7b2cdc09d674)
 - ![Page 2](https://github.com/punithkp169/Retail-Sales-Analysis/assets/173493345/cffcb464-f001-4cd5-ba5d-71616181e8b0)
